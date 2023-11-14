@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](docs/index.md)
+* [HOME](./)
 
 * [Tutorials](./tutorials/index)
   * [Tomcat](./tutorials/tomcat/index)
